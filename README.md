@@ -1,2 +1,4 @@
 # statistics_noob_to_pro
-it contained info to learn statistics
+
+* it is branch of mathes that analyze, collection, and get insights from data.
+* the data is shaped by statistics 
